@@ -15,4 +15,4 @@ RUN chmod +x /usr/local/bin/docker-entrypoint.sh
 
 ENTRYPOINT ["docker-entrypoint.sh"]
 
-CMD ["tail", "-f", "/cron/logs/time.log"]
+CMD ["tail"]
