@@ -3,7 +3,7 @@
 [![layers badge](https://images.microbadger.com/badges/image/youmingdot/cron.svg)](https://microbadger.com/images/youmingdot/cron)
 ### Supported tags and respective Dockerfile links
 
-+ `latest` [(2.5/Dockerfile)](https://github.com/youmingdot/docker-cron/blob/master/cron/Dockerfile)
++ `latest` [(cron/Dockerfile)](https://github.com/youmingdot/docker-cron/blob/master/cron/Dockerfile)
 
 ------
 ### Author
