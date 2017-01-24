@@ -10,7 +10,7 @@ install:
 before_script:
   - env | sort
   - cd "cron"
-  - image="youmingdot/shadowsocks:$VERSION"
+  - image="cogset/cron:$VERSION"
 
 script:
   - docker build -t "$image" .

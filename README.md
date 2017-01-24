@@ -1,9 +1,9 @@
 ## Cron in Docker
-[![build status badge](https://travis-ci.org/youmingdot/docker-cron.svg)](https://travis-ci.org/youmingdot/docker-cron)
-[![layers badge](https://images.microbadger.com/badges/image/youmingdot/cron.svg)](https://microbadger.com/images/youmingdot/cron)
+[![build status badge](https://travis-ci.org/cogset/cron.svg)](https://travis-ci.org/cogset/cron)
+[![layers badge](https://images.microbadger.com/badges/image/cogset/cron.svg)](https://microbadger.com/images/cogset/cron)
 ### Supported tags and respective Dockerfile links
 
-+ `latest` [(cron/Dockerfile)](https://github.com/youmingdot/docker-cron/blob/master/cron/Dockerfile)
++ `latest` [(cron/Dockerfile)](https://github.com/cogset/cron/blob/master/cron/Dockerfile)
 
 ------
 ### Author

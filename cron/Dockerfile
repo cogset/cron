@@ -1,9 +1,9 @@
 # Cron
-# AUTHOR You Ming
+# Cogset Open Source Group
 
 FROM debian:jessie
 
-MAINTAINER You Ming <youming@funcuter.org>
+MAINTAINER Cogset <cogset@funcuter.org>
 
 # Install
 RUN apt-get update \
