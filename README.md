@@ -14,5 +14,5 @@
 
 ##### Run with a cron rule
 ```
-$ docker run -d --name cron youmingdot/cron:latest -a "* * * * * root echo \"hello\" >> /var/log/cron.log"
+$ docker run -d --name cron cogset/cron:latest -a "* * * * * root echo \"hello\" >> /var/log/cron.log"
 ```
